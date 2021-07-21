@@ -1,0 +1,9 @@
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\bin\Debug\netcoreapp3.1\GetApp.deps.json
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\bin\Debug\netcoreapp3.1\GetApp.dll
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\bin\Debug\netcoreapp3.1\GetApp.pdb
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.csproj.AssemblyReference.cache
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.AssemblyInfoInputs.cache
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.AssemblyInfo.cs
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.csproj.CoreCompileInputs.cache
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.dll
+C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetApp.pdb
