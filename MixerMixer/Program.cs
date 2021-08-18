@@ -3,7 +3,7 @@ using NAudio.CoreAudioApi;
 using System.Diagnostics;
 using NAudio.CoreAudioApi.Interfaces;
 using System.Media;
-using GetApp;
+using GetSession;
 
 namespace MixerMixer
 {
@@ -11,7 +11,10 @@ namespace MixerMixer
     {
         static void Main()
         {
-            Getapp s = new Getapp();
+            GetSessions s = new GetSessions();
+           
+            s.volumechange();
+
         }
 
     }   

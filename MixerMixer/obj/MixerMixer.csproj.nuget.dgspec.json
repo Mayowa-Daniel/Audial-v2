@@ -4,12 +4,12 @@
     "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\MixerMixer\\MixerMixer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetApp.csproj": {
+    "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetSessions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetApp.csproj",
-        "projectName": "GetApp",
-        "projectPath": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetApp.csproj",
+        "projectUniqueName": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetSessions.csproj",
+        "projectName": "GetSessions",
+        "projectPath": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetSessions.csproj",
         "packagesPath": "C:\\Users\\Maya-2\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\obj\\",
         "projectStyle": "PackageReference",
@@ -44,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AudioSwitcher.AudioApi": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "NAudio": {
               "target": "Package",
               "version": "[2.0.1, )"
@@ -96,8 +100,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetApp.csproj": {
-                "projectPath": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetApp.csproj"
+              "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetSessions.csproj": {
+                "projectPath": "C:\\Users\\Maya-2\\Documents\\Projects\\MixerMixer\\GetApp\\GetSessions.csproj"
               }
             }
           }

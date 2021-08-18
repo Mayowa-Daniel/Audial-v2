@@ -15,9 +15,10 @@ C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
-C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\GetApp.dll
-C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\GetApp.pdb
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\obj\Debug\netcoreapp3.1\MixerMixer.csproj.CopyComplete
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\obj\Debug\netcoreapp3.1\MixerMixer.dll
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\obj\Debug\netcoreapp3.1\MixerMixer.pdb
 C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\obj\Debug\netcoreapp3.1\MixerMixer.genruntimeconfig.cache
+C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\AudioSwitcher.AudioApi.dll
+C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\GetSessions.dll
+C:\Users\Maya-2\Documents\Projects\MixerMixer\MixerMixer\bin\Debug\netcoreapp3.1\GetSessions.pdb

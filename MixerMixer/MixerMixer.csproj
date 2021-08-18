@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GetApp\GetApp.csproj" />
+    <ProjectReference Include="..\GetApp\GetSessions.csproj" />
   </ItemGroup>
 
 </Project>
