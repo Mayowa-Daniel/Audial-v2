@@ -16,22 +16,25 @@ void USART_init()
 }
 
 
-void USART_TX(char * volumo)
+void USART_TXST(char * volumo)
 {
 	unsigned char i = 0;
 	
 	while(volumo[i] != '\0')
 	{
-		while((UCSR0A & (1<<UDRE0))==0);
-		UDR0 = volumo[i];
+		USART_TX(volumo[i]);
 		
 		i++;
-	}
-	//UDR0 = '\n';
-	//mixerinfo = ADC;
-	
+	}	
+}
+
+void USART_TX(char single)
+{
+	while((UCSR0A & (1<<UDRE0))==0);
+	UDR0 = single;
 	
 }
+
 
 int converto(int val)
 {

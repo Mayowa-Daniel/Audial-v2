@@ -120,6 +120,12 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="rotary.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="rotary.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="usart_lib.c">
       <SubType>compile</SubType>
     </Compile>

@@ -14,7 +14,9 @@
 	#include <util/delay.h> 
 
 	void USART_init();
-	void USART_TX(char * volumo);
+	void USART_TXST(char * volumo);
+	void USART_TX(char single);
+	void uart_putchar(char c);
 	int converto(int val);
 
 #endif
