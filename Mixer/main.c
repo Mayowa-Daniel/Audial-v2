@@ -85,7 +85,11 @@ int main(void)
 			//itoa(channel, currchannel, 10);
 			//USART_TX(currchannel);
 			USART_TXST(mixer_vol);
-			USART_TX('|');
+			if (channel != 4)
+			{
+				USART_TX('|');
+			}
+			
 			
 			//increment ADC channel/ go to next ADC pin
 			channel++;

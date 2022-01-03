@@ -9,12 +9,12 @@
 #define ROTARY_H
 #include <avr/io.h>
 //define port where encoder is connected
-#define ROTPORT PORTC
-#define ROTDDR DDRC
-#define ROTPIN PINC
+#define ROTPORT PORTD
+#define ROTDDR DDRD
+#define ROTPIN PIND
 //define rotary encoder pins
-#define ROTPA PINC0
-#define ROTPB PINC1
+#define ROTPA PIND3
+#define ROTPB PIND2
 #define ROTPBUTTON	PB4
 //define macros to check status
 #define ROTA !((1<<ROTPA)&ROTPIN)
@@ -26,4 +26,3 @@ void RotaryCheckStatus(void);
 uint8_t RotaryGetStatus(void);
 void RotaryResetStatus(void);
 #endif
-

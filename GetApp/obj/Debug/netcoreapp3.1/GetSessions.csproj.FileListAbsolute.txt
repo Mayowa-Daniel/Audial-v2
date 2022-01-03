@@ -7,3 +7,13 @@ C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\Get
 C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetSessions.csproj.CoreCompileInputs.cache
 C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetSessions.dll
 C:\Users\Maya-2\Documents\Projects\MixerMixer\GetApp\obj\Debug\netcoreapp3.1\GetSessions.pdb
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\bin\Debug\netcoreapp3.1\GetSessions.deps.json
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\bin\Debug\netcoreapp3.1\GetSessions.dll
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\bin\Debug\netcoreapp3.1\GetSessions.pdb
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.csproj.AssemblyReference.cache
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.AssemblyInfoInputs.cache
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.AssemblyInfo.cs
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.csproj.CoreCompileInputs.cache
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.dll
+C:\Users\Mayowa\Documents\Projects\Audial-v2\GetApp\obj\Debug\netcoreapp3.1\GetSessions.pdb

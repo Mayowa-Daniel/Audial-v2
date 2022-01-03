@@ -45,17 +45,8 @@ namespace GetSession
 
         public void volumechange(float sys)
         {
-            //float volume = (float)(Math.Round(session.SimpleAudioVolume.Volume) * 100);
-
-            // Console.WriteLine("volume = " + volume);
-            //change Device Audio
-            Console.WriteLine(device.AudioEndpointVolume.MasterVolumeLevelScalar);
-
-            //volume = (float)Convert.ToDouble(Console.ReadLine());
-
             //absolute/master volume
             device.AudioEndpointVolume.MasterVolumeLevelScalar = sys / 100.0f;
-
         }
 
         public int noofapps()
