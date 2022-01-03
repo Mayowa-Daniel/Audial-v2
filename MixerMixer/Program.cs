@@ -35,6 +35,7 @@ namespace MixerMixer
                 string[] volums = knobs.Split('|');
                 //sbyte is 8 bit integer space
                 //space efficiency is cool kids
+                //I am not cool
                 float masta = Convert.ToSByte(volums[0]);
 
                 xex.volumechange(masta);
